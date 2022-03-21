@@ -32,13 +32,6 @@
 
 - 前端入门路线和推荐学习资源，可以看这篇文章：[《2022年Web前端入门的自学路线》](https://www.cnblogs.com/qianguyihao/p/8776837.html)
 
-## 赞赏作者
-
-创作不易，你的赞赏和认可，是我更新的最大动力：
-
-![](https://img.smyhvae.com/20210921_1700.jpg)
-
-
 ## LICENSE
 
 ![](http://img.smyhvae.com/20210331_CC-BY-NC-SA.png)
